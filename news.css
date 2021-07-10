@@ -1,0 +1,42 @@
+body{
+	background-image: url('photos/news.jpg');
+}
+.active{
+	color: indianred;
+}
+.header ul, li{
+	display: inline;
+    padding: 5px;
+    margin-bottom: 20px;
+}
+.logo{
+	margin-left: 30px;
+}
+.facebook{
+	padding: 20px;
+	border-right: 0.1px solid;
+}
+.footer img{
+	display: inline;
+	margin-top: 10px;
+}
+.youtube{
+	padding: 20px;
+	}
+p{
+	margin-right: 10px;
+	padding: 10px;
+	font-size: 30px;
+	background-color: gray;
+	color: white;
+	box-shadow: 3px 3px 3px red;
+}
+.marvel{
+	box-shadow: 5px 10px 5px gray;
+	margin-top: 20px;
+	margin-left: 30px;
+	width: 550px;
+}
+.section-second{
+	margin-left: 30px;
+}
