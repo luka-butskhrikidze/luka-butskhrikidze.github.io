@@ -5,12 +5,19 @@ body{
 .active{
 	color: indianred;
 }
-.header ul, li{
-	vertical-align: middle;
-	display: inline;
+.headerindex ul, li{
+	
+	display: inline-block;
     padding: 5px;
-    margin-bottom: 20px;
-   
+    
+}
+.header ul, li{
+	display: inline-block;
+    padding: 5px;
+}
+.headerindex{
+	position: fixed;
+	background-color: #3cfffb;
 }
 .logo{
 	margin-left: 30px;
@@ -36,7 +43,7 @@ p{
 }
 .marvel{
 	box-shadow: 5px 10px 5px palevioletred;
-	margin-top: 20px;
+	margin-top: 120px;
 	margin-left: 30px;
 }
 .section-second{

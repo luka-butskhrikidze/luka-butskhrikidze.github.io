@@ -10,6 +10,10 @@ body{
     padding: 5px;
     margin-bottom: 20px;
 }
+.header{
+	position: fixed;
+	background-image: url('photos/news.jpg');
+}
 .logo{
 	margin-left: 30px;
 	margin-top: 1em;
@@ -35,7 +39,7 @@ p{
 }
 .marvel{
 	box-shadow: 5px 10px 5px gray;
-	margin-top: 20px;
+	margin-top: 100px;
 	margin-left: 30px;
 	width: 550px;
 }
