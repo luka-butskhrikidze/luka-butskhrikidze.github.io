@@ -54,6 +54,14 @@ h2{
 a{
 	text-decoration: none;
 }
+
 *{
 	margin-left: 30px;
 }
+a:hover{
+	background-color: yellow;
+}
+
+a:active {
+  color: skyblue;
+} 

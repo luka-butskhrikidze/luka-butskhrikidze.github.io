@@ -5,12 +5,14 @@ body{
 	color: indianred;
 }
 .header ul, li{
+	vertical-align: middle;
 	display: inline;
     padding: 5px;
     margin-bottom: 20px;
 }
 .logo{
 	margin-left: 30px;
+	margin-top: 1em;
 }
 .facebook{
 	padding: 20px;
@@ -40,3 +42,8 @@ p{
 .section-second{
 	margin-left: 30px;
 }
+a.section{
+	font-size: 35px;
+	padding: 20px;
+}
+
