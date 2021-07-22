@@ -1,0 +1,98 @@
+body{font-family: 'Slabo 13px', serif;
+}
+.h3{
+	color: white;
+}
+a{
+	text-decoration: none;
+	color: black;
+}
+a:hover{
+color: skyblue;
+}
+
+.container{
+	display: flex;
+	justify-content: space-around;
+	background-image: url('../photos/back.png');
+	background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.input-text{
+	border-radius: 7px;
+	width: 250px;
+	height: 3.4vh;
+	border: 1px solid;
+	border-color: #928B8B;
+}
+.input-text:hover{
+	border-color: lightblue;
+}
+.input-submit{
+	border-radius: 10px;
+	background-color: blue;
+	border-color: blue;
+	width: 70px;
+}
+.div{
+	background-color: white;
+	border: 2px;
+    padding: 10px;
+    border-radius: 25px;
+    margin: 20px;
+}
+.h1{
+	font-size: 50px;
+}
+.container-2{
+	display: flex;
+	justify-content: space-around;
+	margin-top: 100px;
+}
+.image{
+	border-radius: 1000px;
+}
+.div-2{
+	background-image: url('../photos/Contactbackground.png');
+	padding: 150px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+.back{
+	background-color: blue;
+	border: 2px;
+    padding: 10px;
+    border-radius: 25px;
+}
+.section-first{
+	padding-bottom: 80px;
+}
+.section-second{
+	background-color: #E4E4E4;
+	padding-top: 10px;
+}
+.input-text-2{
+	border: 2px solid;
+	margin-bottom: 1em;
+	border-radius: 7px;
+	border-color: white;
+	width: 250px;
+
+}
+.name{
+	height: 25px;
+}
+.input-text-2:hover{
+	border-color: gold;
+}
+.input-submit-2{
+	border-radius: 10px;
+	color: white;
+	background-color: lightgreen;
+	border-color: lightgreen;
+	width: 100px;
+	height: 30px;
+}

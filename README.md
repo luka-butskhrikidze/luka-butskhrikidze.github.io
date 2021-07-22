@@ -1,1 +1,0 @@
-# luka-butskhrikidze.github.io
