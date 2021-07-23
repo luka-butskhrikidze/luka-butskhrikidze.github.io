@@ -30,10 +30,13 @@ color: skyblue;
 	border-color: lightblue;
 }
 .input-submit{
+	position: relative;
+	right: 20px;
 	border-radius: 10px;
 	background-color: blue;
 	border-color: blue;
 	width: 70px;
+	height: 3.8vh;
 }
 .div{
 	background-color: white;
