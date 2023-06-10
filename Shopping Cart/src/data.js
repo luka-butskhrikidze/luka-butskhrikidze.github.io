@@ -44,7 +44,7 @@ let shopItemsData = [
         img: "images/img-6.jpg"
     },
     {
-        id:'z[;x.1w1',
+        id:'dfrjkkuopp',
         name:"Men's Shirt",
         price: 45,
         desc: "Lorem ipsum dolor sit amet consectetur adipisicing.",
@@ -58,7 +58,7 @@ let shopItemsData = [
         img: "images/img-8.jpg"
     },
     {
-        id:'90luing',
+        id:'sdvsfbqwtiol',
         name:"Men's Shirt",
         price: 240,
         desc: "Lorem ipsum dolor sit amet consectetur adipisicing.",
